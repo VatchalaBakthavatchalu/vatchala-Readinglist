@@ -1,5 +1,5 @@
-- title: "Prof. Sussman's Reading List"
-  url: https://news.ycombinator.com/item?id=9411408
+- title: "Ian Goodfellow Deep Learning"
+  url: http://www.deeplearningbook.org/
 - title: 'Ask HN: Which books are you reading these days? 2015-04-09'
   url: https://news.ycombinator.com/item?id=9346313
 - title: 100 Best Novels
@@ -36,3 +36,5 @@
   url: https://news.ycombinator.com/item?id=15155833
 - title: The best design books that aren’t explicitly about design.
   url: https://medium.com/@dburka/the-best-design-books-that-arent-explicitly-about-design-74fc96ce115e
+- title:"WhichBook"
+  url:http://www.openingthebook.com/whichbook/
