@@ -130,31 +130,7 @@
   finished: False
   rating: TODO
   notes:
-    - "From Barnes & Noble's The Complete Sherlock Holmes"
-- author: Arthur Conan Doyle
-  title: The Adventures of Sherlock Holmes
-  finished: False
-  rating: TODO
-  notes:
-    - "From Barnes & Noble's The Complete Sherlock Holmes"
-- author: Arthur Conan Doyle
-  title: The Memoirs of Sherlock Holmes
-  finished: False
-  rating: TODO
-  notes:
-    - "From Barnes & Noble's The Complete Sherlock Holmes"
-- author: Arthur Conan Doyle
-  title: The Return of Sherlock Holmes
-  finished: False
-  rating: TODO
-  notes:
-    - "From Barnes & Noble's The Complete Sherlock Holmes"
-- author: Arthur Conan Doyle
-  title: The Hound of the Baskervilles
-  finished: False
-  rating: TODO
-  notes:
-    - "Ian Goodfellow Deep Learning"
+      - "Ian Goodfellow Deep Learning"
   author: Ian Goodfellow
   title: Ian Goodfellow Deep Learning
   finished: False
